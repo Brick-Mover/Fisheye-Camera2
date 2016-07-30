@@ -1,2 +1,1 @@
-# Mercator-projection
-# Fisheye-Camera2
+Fisheye-Camera2: simulate fisheye camera in a spherical environment
